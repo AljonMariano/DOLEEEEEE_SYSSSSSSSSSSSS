@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "decisive-octane-450603-i7",
+  "private_key_id": "595b9960c07130d51e30d83a028401d3638d0c79",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCc81D8VuCqpxk9\nAJ+LcZuKlnviusI6Auws1dBGCImrCNEGP/BH26XLy0KKDO5BvROrAC0YOYXRbhec\nuqAI3emZWa3gmvtRByCVo4scaxy5CgQeWbzBkzKFuJS/vG7Z89y5SzyEueNS9bCO\nicQXkmTZDpJ/H7ab6lh2FgHgij6DdDjvzIcvJAcs7InAG/1fBgHCZhjXwSeAEodk\n6Chmcw7kozisLyhnWKMWD4nMB0T8NtWVkMr9M5AwXHq5KOPR1AyHRzj9vTjpeyMI\nvms9QL6GN7KAktBeA0taU1f1l+08AzFO39QrE46t2Hp+v8EH0YvmNVo8Ze8VrK/P\niJ+oiYp7AgMBAAECggEAMHfJTivMFJcmqZp8KpVKWclv94wB9+U4Jv5eY4o2bV17\nI0lye9ZeRGmAIl6s4xsvLDMROfZll0++tfVB/4r8HRG/Kunha1vemadYCc4gIBpy\nPCctLcA1rWrbcLyRpPf0dTpBNaGsDE34GIR9zGO2hftEjUJvY4XCjLDuIne+p1ws\nd2C/wnaaukgVtA0f2ja+4rmr++Vc4wZ6UYyAWVgatd6tpivE1bJMWjZhoeoeOdIc\n6r0AERTeHghtny/B4F2UDIS4VwfvcIyxM6YpMwdR+7iVGJez8IE9EmVK2VCO2k85\nU9/PbgPXpa1fWzSP6bvrB06S1/0pSXsJ87PWp78bnQKBgQDMdRACDnIN47VrTTfy\nhoBUzxMCcBu5neuONLTU6WR6lEgsbag3PRsnjCVXMHhgPMgVjTy83AV1GEenelVb\ndE/we9NEm4eV8fsdHGwij8mGyFWE6tKoI0EdSlsNFIXBI15/enwEpjFcwPT8uuRr\nA5R/Gnli23oW1zoRS+BdMvKxjwKBgQDEhFWaz+AIhFvbzhMN3vjVD7PEyqjQzR5P\niZTsCHHn+2lhC84WUOaQMdX2A7IOck5w8HEC9zekCpwC175WlT4UHMxA/XY5O5BE\njrTsiEu/roUwqa6RbhFMqLQxUfjkCsDrZQzc31pt9t5a9B7kxwzg8Dgt3TL+I5bl\n2J40kCsKVQKBgQCslhBaPAlo0hN9LSSR85l2fYnFYA73Q2folXMj2pO3qV23KyV4\n43r9ih6nF8I1MnmPP7bKkUuGCWXK6MgOuAMWs9+lpUfxed8INsrM7eUmggs2dOY3\nifLYH8D2LKGvZATLxP/VCNjYPAVRJQ3Vi6MZG6blnPDVQP7CRPNymKQm3wKBgQCV\nxPFlAkaQ1ycW9xBIgwWLg+MS+Qz9zUXrgkRwOuNs1Iv0fUW8dj2x6XlSfHCIWA92\nPZkzlGvgZoGOHRSf8jAUrfnxEfq3FbEWvtgeaKWqWXyCoN89UPB4Rx7Fc97HFXcA\nL8xEzSijJAFEukaNPzKOgCWgtrN1QnRvic7Q6osS3QKBgCyrv1n29uaQ/FyRHHmR\ns5sg+v+kJ4mkxYm2iLgjmq3+IqNnGOHM1rz8Ahh7V0rZQYVlOZWwt7rGKM0fGD7y\n4bXhijfM+TzW4oQDyOqGJw3uVItcf8EWfsRcFGnXVFnOvXznxkIThm231xVlGkyb\nX2T3paWqQ8xWHqYbzuCQtegf\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheetsreader@decisive-octane-450603-i7.iam.gserviceaccount.com",
+  "client_id": "104441569979619165170",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheetsreader%40decisive-octane-450603-i7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
